@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fathima-irfana-np
 - 👀 I’m interested in programming ...
 - 🌱 I’m currently learning django web development ...
-- 📫 How to reach me with irfuninu@gmail.com
+- 📫 Reach me with irfuninu@gmail.com
 - 
 
 <!---
