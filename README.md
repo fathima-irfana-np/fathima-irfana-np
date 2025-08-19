@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming ...
 - 🌱 I’m currently learning django python.
 - 📫 Reach me with fathimairfana909@gmail.com
-- 
+- www.linkedin.com/in/fathima--irfana-np--909-
 
 <!---
 fathima-irfana-np/fathima-irfana-np is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
