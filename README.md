@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fathima-irfana-np
-- 👀 I’m interested in programming ...
+- 👀 I’m interested in software development ...
 - 🌱 I’m currently learning django python.
 - 📫 Reach me with fathimairfananp909@gmail.com
 - www.linkedin.com/in/fathima--irfana-np--909-
