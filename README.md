@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fathima-irfana-np
 - 👀 I’m interested in software development ...
-- 🌱 I’m currently learning django python.
+- 🌱 I’m currently learning django python,Rest and Node.js
 - 📫 Reach me with fathimairfananp909@gmail.com
 - www.linkedin.com/in/fathima--irfana-np--909-
 
