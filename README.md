@@ -65,8 +65,8 @@ Scroll down to explore my repositories ⭐
 
 ## 📜 Certifications
 
-✅ Python Django Full-Stack Developer — Udemy  
-✅ The Joy of Computing Using Python — NPTEL (Elite)
+✅ Python Django Full-Stack Developer — Mdigits Soft-Solutions
+✅ The Joy of Computing Using Python — NPTEL , IIT Ropar
 
 ---
 ## 📊 GitHub Stats
