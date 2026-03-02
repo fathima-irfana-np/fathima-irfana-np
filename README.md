@@ -1,37 +1,96 @@
-# 👋 Hi, I’m Fathima Irfana NP
+# Fathima Irfana NP 👋
 
-I am an **MCA student** at Govt. [cite_start]Engineering College, Thrissur, specializing in **Python-based automation**, **full-stack web development**, and **software security testing**. [cite: 4, 31, 32] [cite_start]I enjoy building AI-integrated applications that solve real-world security and accessibility challenges. [cite: 5]
+## About Me
 
-### 👀 Interests
-- [cite_start]**Security & Auditing:** Automated vulnerability detection in Solidity smart contracts. [cite: 6, 14, 16]
-- [cite_start]**AI Automation:** Building autonomous crawlers for exploratory testing and state mapping. [cite: 19, 20]
-- [cite_start]**Full-Stack Development:** Creating robust web applications using Django and modern JavaScript. [cite: 9, 22]
-- [cite_start]**IoT & Accessibility:** Developing assistive technologies like sign-language-to-text translators. [cite: 26, 28]
+🔐 Security & Automation Enthusiast  
 
-### 🌱 Currently Learning & Building
-- [cite_start]**Frameworks:** Deepening my expertise in **Django**, **Rest API**, and **Node.js**. [cite: 9]
-- [cite_start]**Smart Contract Security:** Developing an AI-based explanation engine for remediation guidance. 
-- [cite_start]**Test Engineering:** Optimizing autonomous test generation using **Groq AI** and **Playwright**. [cite: 10, 19, 21]
+🎓 MCA Student at Government Engineering College, Thrissur (CGPA: 9.45/10)  
 
-### 🚀 Key Projects
-* [cite_start]**AI-Powered Smart Contract Auditor:** Uses Slither and LLMs to detect and explain vulnerabilities. [cite: 14, 16, 17]
-* [cite_start]**AI-Driven Autonomous Crawler:** An exploratory testing tool that reduces manual prep time by 80%. [cite: 19, 21]
-* [cite_start]**Dynamic Cognitive AI CAPTCHA:** Logic-based interactive storytelling to prevent bot attacks. [cite: 22, 23]
-* [cite_start]**Sign Language Translator:** An IoT prototype using Arduino and flex sensors for real-time communication. [cite: 26, 28]
+🤖 Building AI-integrated systems for software security and intelligent testing  
 
-### 🛠️ Technical Toolkit
-- [cite_start]**Languages:** Python, JavaScript, Java, C [cite: 8, 9]
-- [cite_start]**Web/Automation:** Django, Selenium, Playwright, Gauge, HTML5/CSS3 [cite: 9, 10]
-- [cite_start]**Security Tools:** Slither [cite: 10]
-- [cite_start]**Databases:** MySQL, SQLite, MongoDB [cite: 11]
+🛡️ Focused on Smart Contract Auditing & Autonomous Test Automation  
 
-### 🏆 Achievements & Leadership
-- [cite_start]**Best Poster Award** at ICFOSS 2023. [cite: 40]
-- [cite_start]**1st Place** in Idea Presentation (Desafio 2K23). [cite: 41]
-- [cite_start]**College Chess Champion** (1st Place 2023, 2nd Place 2024). [cite: 45]
-- [cite_start]**Coordinator** for the HACKIFY Workshop. [cite: 42]
+🌱 Currently deepening expertise in Django REST Framework, Node.js, and advanced security patterns  
 
-### 📫 Reach Me
-- [cite_start]**Email:** [fathimairfananp909@gmail.com](mailto:fathimairfananp909@gmail.com) [cite: 3]
-- [cite_start]**LinkedIn:** [linkedin.com/in/fathima--irfana-np--909-](https://www.linkedin.com/in/fathima--irfana-np--909-) [cite: 3]
-- **HackerRank:** [hackerrank.com/profile/irfanaNP](https://www.hackerrank.com/profile/irfanaNP)
+---
+
+## 📊 GitHub Activity
+
+- 1,000+ Contributions (2024 – Present)  
+- Active streak builder  
+- Consistently working on AI + Security projects  
+
+Scroll down to explore my repositories ⭐  
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fathima--irfana-np--909-)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fathimairfananp909@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanaNP)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/irfanaNP)
+
+---
+
+## 🛠 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Slither](https://img.shields.io/badge/Slither-SmartContractSecurity-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🏆 Achievements
+
+🏆 Best Poster Award — ICFOSS 2023  
+🥇 1st Place — Idea Presentation (Desafio 2K23)  
+🎯 Coordinator — HACKIFY Workshop  
+♟️ College Chess Champion — 1st (2023), 2nd (2024)
+
+---
+
+## 📜 Certifications
+
+✅ Python Django Full-Stack Developer — Mdigits soft solutions
+✅ The Joy of Computing Using Python — NPTEL (Elite)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfanaNP&show_icons=true&theme=dark)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanaNP&layout=compact&theme=dark)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| AI-Powered Smart Contract Auditor | Automated vulnerability detection + AI remediation guidance | Python, Slither, LLM |
+| Autonomous State Crawler | 80% faster test prep with AI-generated test cases | Python, Selenium, Groq AI, Gauge |
+| Dynamic Cognitive AI CAPTCHA | Logic-based interactive storytelling to prevent bot attacks | Django, JavaScript, SQLite |
+| IoT Sign Language Translator | Real-time gesture-to-text assistive prototype | Arduino, Flex Sensors |
+
+---
+
+⭐ Check out my repositories below! ⭐  
+
+*"Building secure, intelligent systems that make a difference."* 🔐✨
