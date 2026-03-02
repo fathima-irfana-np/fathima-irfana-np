@@ -68,8 +68,7 @@ Scroll down to explore my repositories ⭐
 ✅ Python Django Full-Stack Developer — Mdigits Soft-Solutions
 ✅ The Joy of Computing Using Python — NPTEL , IIT Ropar
 
----
-
+<!--
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathima-irfana-np&show_icons=true&theme=dark&hide_border=true)
@@ -77,9 +76,7 @@ Scroll down to explore my repositories ⭐
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathima-irfana-np&layout=compact&theme=dark&hide_border=true)
-
----
-
+-->
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
