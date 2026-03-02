@@ -4,7 +4,7 @@
 
 🔐 Security & Automation Enthusiast  
 
-🎓 MCA Student at Government Engineering College, Thrissur (CGPA: 9.45/10)  
+🎓 MCA Student at Government Engineering College, Thrissur (CGPA: 9/10)  
 
 🤖 Building AI-integrated systems for software security and intelligent testing  
 
