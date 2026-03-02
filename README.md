@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Activity
 
-- 1,000+ Contributions (2024 – Present)  
+- 2024 – Present
 - Active streak builder  
 - Consistently working on AI + Security projects  
 
@@ -28,7 +28,7 @@ Scroll down to explore my repositories ⭐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fathima--irfana-np--909-)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fathimairfananp909@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanaNP)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fathima-irfana-np)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/irfanaNP)
 
 ---
@@ -72,11 +72,11 @@ Scroll down to explore my repositories ⭐
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfanaNP&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathima-irfana-np&show_icons=true&theme=dark)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanaNP&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathima-irfana-np&layout=compact&theme=dark)
 
 ---
 
