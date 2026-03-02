@@ -2,7 +2,7 @@
 
 ## About Me
 
-🔐 Security & Automation Enthusiast  
+🔐 Software Developer focused on intelligent automation and secure systems
 
 🎓 MCA Student at Government Engineering College, Thrissur (CGPA: 9/10)  
 
@@ -69,13 +69,15 @@ Scroll down to explore my repositories ⭐
 ✅ The Joy of Computing Using Python — NPTEL , IIT Ropar
 
 ---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathima-irfana-np&show_icons=true&theme=dark&hide_border=true)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathima-irfana-np&layout=compact&theme=dark&hide_border=true)
+
 ---
 
 ## 🚀 Featured Projects
